@@ -13,6 +13,8 @@
 
 ### Решение
 
+![screen](https://github.com/igorsprint-code/hw-04/blob/main/Zadanie1.jpg)
+
 ---
 
 ### Задание 2
@@ -26,6 +28,10 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+### Решение
+
+![screen](https://github.com/igorsprint-code/hw-04/blob/main/Zadanie_2.jpg)
 
 ---
 
@@ -42,6 +48,10 @@
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
+### Решение
+
+![screen](https://github.com/igorsprint-code/hw-04/blob/main/Zadanie_3_status.jpg)
+![screen](https://github.com/igorsprint-code/hw-04/blob/main/Zadanie_3_targets.jpg)
 ---
 ## Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
@@ -54,7 +64,16 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
+### Решение
+
+![screen](https://github.com/igorsprint-code/hw-04/blob/main/Zadanie%204.jpg)
+
 ---
 
 ### Задание 5*
 Интегрируйте Grafana и Prometheus.
+
+
+### Решение
+
+![screen](https://github.com/igorsprint-code/hw-04/blob/main/Zadanie5.jpg)
